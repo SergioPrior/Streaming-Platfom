@@ -12,7 +12,7 @@ El principal objetivo es investigar las variables a partir de los datos obtenido
 Se inició eliminando valores NaN, identificando errores en las tablas e implementando mejoras para optimizarlas. Una vez que los datos estuvieron limpios, se estandarizaron los tipos de datos para garantizar homogeneidad. Luego, se concatenaron todos los conjuntos de datos en uno solo para trabajar con un archivo .csv.
 
 ### 2.4 Grafica
-imagen
+![image](grafica.png)
 ## 3 - Estudio
 Como se puede observar, el crecimiento de las plataformas de streaming a lo largo de la última década ha sido significativo. Sin embargo, se nota una disminución notable en el contenido de la plataforma Netflix, probablemente debido a un aumento en su tarifa de suscripción asociada con una baja en la calidad del contenido.
 
