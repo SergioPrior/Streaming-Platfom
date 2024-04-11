@@ -23,4 +23,4 @@ Por último, la duración en minutos de todo el contenido por plataforma proporc
 
 ## 4 - Dashboard PowerBI
 Una vez realizado el estudio lo he trasladado todo a un dashboard en PowerBI para darle mas claridad, calidad e iteraticvidad, si quereis obtenerlo para visualizarlo o trabajarlo os dejo aqui el enlace
-| Dashboard | [Plataforma_Streaming.pbix][PlDb] |
+| Dashboard |[Plataforma_Streaming](Plataforma_Streaming.pbix) |
