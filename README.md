@@ -1,5 +1,5 @@
 # Streaming-Platform
-
+![image](title.png)
 ## 1 - Descripción
 Este estudio se ha llevado a cabo para examinar el crecimiento y la expansión del contenido en las plataformas de streaming a lo largo del tiempo, transformando nuestra percepción de la televisión tradicional hacia un consumo de contenido bajo demanda, en cualquier momento y lugar.
 
